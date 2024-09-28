@@ -1,0 +1,19 @@
+* {
+  font-family: sans-serif;
+}
+
+.questions {
+  font-size: 1.5rem;
+}
+
+.label-container {
+  margin-bottom: 1rem;
+}
+
+label {
+  font-size: 1.3rem;
+}
+
+button {
+  font-size: 2rem;
+}
