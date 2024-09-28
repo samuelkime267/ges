@@ -77,9 +77,11 @@ const Quiz = ({ questions, setSection }: quizProps) => {
         ) : (
           <div>
             <h2>Results</h2>
-            <p>
+
+            <h1>
               You scored {score} out of {questions.length}
-            </p>
+            </h1>
+
             <ul>
               {questions.map((question, index) => (
                 <li key={index} className="questions result">
