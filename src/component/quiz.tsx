@@ -82,7 +82,7 @@ const Quiz = ({ questions, setSection }: quizProps) => {
               You scored {score} out of {questions.length}
             </h1>
 
-            <ul>
+            <ol>
               {questions.map((question, index) => (
                 <li key={index} className="questions result">
                   {question.question}
@@ -95,7 +95,7 @@ const Quiz = ({ questions, setSection }: quizProps) => {
                   <br />
                 </li>
               ))}
-            </ul>
+            </ol>
           </div>
         )}
       </form>
