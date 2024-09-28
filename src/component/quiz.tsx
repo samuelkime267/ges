@@ -82,7 +82,7 @@ const Quiz = ({ questions, setSection }: quizProps) => {
             </p>
             <ul>
               {questions.map((question, index) => (
-                <li key={index}>
+                <li key={index} className="questions result">
                   {question.question}
                   <br />
                   <strong>Your Answer: </strong>

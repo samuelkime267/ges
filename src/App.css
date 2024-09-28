@@ -6,6 +6,10 @@
   font-size: 1.5rem;
 }
 
+.questions.result {
+  margin-bottom: 3rem;
+}
+
 .label-container {
   margin-bottom: 1rem;
 }
