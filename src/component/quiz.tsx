@@ -83,18 +83,30 @@ const Quiz = ({ questions, setSection }: quizProps) => {
             </h1>
 
             <ol>
-              {questions.map((question, index) => (
-                <li key={index} className="questions result">
-                  {question.question}
-                  <br />
-                  <strong>Your Answer: </strong>
-                  {userAnswers[index] || "No answer selected"}
-                  <br />
-                  <strong>Correct Answer: </strong>
-                  {question.answer}
-                  <br />
-                </li>
-              ))}
+              {questions.map((question, index) => {
+                const isAnswer = question.answer === userAnswers[index];
+                return (
+                  <li
+                    key={index}
+                    className="questions result"
+                    style={{
+                      padding: "0.25rem",
+                      backgroundColor: isAnswer
+                        ? "rgba(0, 255, 0, 0.1)"
+                        : "rgba(255, 0, 0, 0.1)",
+                    }}
+                  >
+                    {question.question}
+                    <br />
+                    <strong>Your Answer: </strong>
+                    {userAnswers[index] || "No answer selected"}
+                    <br />
+                    <strong>Correct Answer: </strong>
+                    {question.answer}
+                    <br />
+                  </li>
+                );
+              })}
             </ol>
           </div>
         )}

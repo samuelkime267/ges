@@ -12,20 +12,33 @@ function App() {
     setSection(index);
   };
 
-  if (section === null)
-    return (
-      <div className="sections-btn-container">
-        {questions.map((_, index) => (
-          <button key={index} onClick={() => handleClick(index)}>
-            <h3>section {index + 1}</h3>
-          </button>
-        ))}
-      </div>
-    );
-
   return (
     <>
-      <Quiz questions={questions[section]} setSection={setSection} />
+      <div style={{ marginBottom: "4rem" }}>
+        {section === null ? (
+          <div className="sections-btn-container">
+            {questions.map((_, index) => (
+              <button
+                key={index}
+                onClick={() => handleClick(index)}
+                className="button-section"
+              >
+                <h3>section {index + 1}</h3>
+              </button>
+            ))}
+          </div>
+        ) : (
+          <Quiz questions={questions[section]} setSection={setSection} />
+        )}
+      </div>
+
+      <a href="https://wa.me/2347017962215" style={{ color: "black" }}>
+        Site made by Samuel Kime
+      </a>
+      <p>
+        These are previous exam questions, not the ones for the upcoming exam.
+        Use them wisely.
+      </p>
     </>
   );
 }
