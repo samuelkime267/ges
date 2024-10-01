@@ -3354,4 +3354,2721 @@ export const quizData = [
     ],
     answer: "Inventor",
   },
+
+  // sure A
+  {
+    question:
+      "_____ represents skill and practices required by entrepreneur to manage rapid growth business in dynamic environments?",
+    options: [
+      "growth strategies",
+      "new venture management",
+      "new entrepreneurial mindset",
+      "new opportunities expansion",
+      "venture capitalist strategies",
+    ],
+    answer: "new venture management",
+  },
+  {
+    question:
+      "According to Park and Bae (2004), three strategies for new venture to pursue business opportunities are technological, product market maturity, and _____?",
+    options: [
+      "human expertise",
+      "penetration",
+      "new know-how",
+      "target market",
+    ],
+    answer: "target market",
+  },
+  {
+    question:
+      "A major distinguishing feature between _____ and _____ can be the reward status, owner's structure, and the role of risk in the entity?",
+    options: [
+      "Managing director and stakeholder",
+      "manager and administrator",
+      "entrepreneurial spirit and employee",
+      "manager and entrepreneur",
+    ],
+    answer: "manager and entrepreneur",
+  },
+  {
+    question:
+      "_____ channel duality is informed by selection of all willing and available, wider coverage, customer resistance, lower price, and less control.",
+    options: [
+      "exclusive duality distribution",
+      "retailing",
+      "selective duality distribution",
+      "intensive duality distribution",
+      "wholesaling",
+    ],
+    answer: "intensive duality distribution",
+  },
+  {
+    question:
+      "Joseph Schumpeter's entrepreneurial theory centers on _____, while Adam Smith pioneered _____?",
+    options: [
+      "innovation creativity and distributive theory",
+      "wealth of nations and creativity",
+      "creative destruction and wealth of nations",
+      "profit alertness and anthropology theory",
+      "creative destruction and profit maximization",
+    ],
+    answer: "creative destruction and profit maximization",
+  },
+  {
+    question: "Which among these entrepreneurship types is odd?",
+    options: [
+      "interpremier",
+      "hustler",
+      "intrapreneur",
+      "corporate entrepreneur",
+      "social entrepreneur",
+    ],
+    answer: "social entrepreneur",
+  },
+  {
+    question:
+      "Major external environments of business contain the following factors _____?",
+    options: ["PEST Acronym analysis", "Structure", "Marketing mix", "Plan"],
+    answer: "PEST Acronym analysis",
+  },
+  {
+    question: "The reverse entrepreneurial flow has _____, _____, and _____?",
+    options: [
+      "Plant, equipment, and market",
+      "Market, opportunity, and idea",
+      "Opportunity, market, and idea",
+      "Idea, opportunity, and market",
+    ],
+    answer: "Market, opportunity, and idea",
+  },
+  {
+    question:
+      "Upward movement along the price axis in break-even analysis will result in _____?",
+    options: [
+      "increase in profit",
+      "decrease in quantity",
+      "no loss; no gain",
+      "decrease in profit",
+      "all of the above",
+    ],
+    answer: "increase in profit",
+  },
+  {
+    question: "A rightward shift in the demand curve will result in _____?",
+    options: [
+      "quantity increase",
+      "price shift",
+      "equilibrium",
+      "quantity decrease",
+      "zero profit",
+    ],
+    answer: "quantity increase",
+  },
+  // 11
+  {
+    question:
+      "The odd and not too common theory of the Ibo ethnic group to explain the theory of entrepreneur is _____?",
+    options: [
+      "profit alertness",
+      "necessity theory",
+      "market equilibrium",
+      "achievement/motivation theory",
+      "creative destruction",
+    ],
+    answer: "necessity theory",
+  },
+  {
+    question:
+      "Entrepreneurial innovations are basically broken into _____ major areas as created by Schumpeter Joseph.",
+    options: ["1", "2", "3", "4", "5"],
+    answer: "5",
+  },
+  {
+    question:
+      "Product development, market development, and marketing development are commonly found in _____?",
+    options: [
+      "new product introduction",
+      "intensive growth opportunity",
+      "integrative growth opportunity",
+      "creation of new method of production",
+      "diversification",
+    ],
+    answer: "intensive growth opportunity",
+  },
+  {
+    question:
+      "'Where we are going to?' is addressed in the _____ stage of the strategic management process.",
+    options: [
+      "situational analysis",
+      "planning",
+      "control",
+      "execution",
+      "feedback",
+    ],
+    answer: "control",
+  },
+  {
+    question: "SWOT analysis in reverse order represents _____?",
+    options: [
+      "strength, weak, order and trust",
+      "success weakness opposition and threat",
+      "strength, weakness, opportunity and threat",
+      "strengthen, weakness, opportune and threat",
+      "threat, opportunity, weakness, and strength",
+    ],
+    answer: "threat, opportunity, weakness, and strength",
+  },
+  {
+    question:
+      "Those whose business activities impart negatively or positively and who in turn affect others' business performance are summed up as _____?",
+    options: ["customers", "shareholders", "stakeholders", "public"],
+    answer: "stakeholders",
+  },
+  {
+    question:
+      "The Ansoff matrix for business opportunity is evaluated along all except _____?",
+    options: [
+      "new product",
+      "new market",
+      "increase in risk",
+      "existing marketing",
+      "market share",
+    ],
+    answer: "market share",
+  },
+  {
+    question: "All EXCEPT one is not a business opportunity quality _____?",
+    options: [
+      "the window opening has a reasonable time",
+      "ample significant profits and growth potential",
+      "break-even takes a long time",
+      "hard to copy",
+    ],
+    answer: "break-even takes a long time",
+  },
+  {
+    question: "The simple source of financing a business opportunity is _____?",
+    options: [
+      "personal savings",
+      "bank loan",
+      "venture capitalist",
+      "debt",
+      "hire purchase",
+    ],
+    answer: "personal savings",
+  },
+  {
+    question:
+      "_____ and _____ are broad classifications of sources of business funding.",
+    options: [
+      "Credit financing and equity",
+      "Bank loan and personal savings",
+      "Venture capitalist and hire purchase",
+      "Debt and equity",
+      "Personal savings and shares",
+    ],
+    answer: "Debt and equity",
+  },
+  {
+    question:
+      "Legal due diligence is featured more in which type of business start-up?",
+    options: ["franchising", "lease", "buy start-up", "new fresh start"],
+    answer: "new fresh start",
+  },
+  {
+    question:
+      "To buy a new business, you consider due diligence in all, EXCEPT _____?",
+    options: ["commercial", "social", "financial", "legal"],
+    answer: "social",
+  },
+  {
+    question:
+      "_____ deals with the scouting, scanning of competitors' offerings, and how the firm's brand performs.",
+    options: [
+      "SWOT analysis",
+      "Product analysis",
+      "Situational analysis",
+      "Marketing analysis",
+      "Market intelligence",
+    ],
+    answer: "market intelligence",
+  },
+  {
+    question: "Which is odd as an 'M' factor of production?",
+    options: ["material", "man", "method", "machine", "maturity"],
+    answer: "maturity",
+  },
+  {
+    question: "External macro business environments include all except _____?",
+    options: [
+      "technology",
+      "competition",
+      "political",
+      "economic",
+      "socio-cultural",
+    ],
+    answer: "competition",
+  },
+  {
+    question:
+      "The common ways to own a business is through all except one _____?",
+    options: [
+      "investment",
+      "franchising",
+      "buying an existing business",
+      "fresh new start",
+    ],
+    answer: "investment",
+  },
+  {
+    question:
+      "The distinguishing quality of Aliko Dangote that makes him an outstanding entrepreneur is _____?",
+    options: ["power", "risk-taking", "risk averter", "networking"],
+    answer: "risk-taking",
+  },
+  {
+    question:
+      "_____ is the reward for your creative thinking and brainwork/research.",
+    options: [
+      "intellectual property right",
+      "human investment",
+      "copyright",
+      "social capital",
+    ],
+    answer: "intellectual property right",
+  },
+  {
+    question:
+      "_____ is not a basic organization or functional area of business organization.",
+    options: [
+      "finance/accounting",
+      "hospitality/tourism",
+      "human resources and administration",
+      "marketing",
+      "production",
+    ],
+    answer: "hospitality/tourism",
+  },
+  {
+    question:
+      "_____ is an example of Dangote's business opportunity growth strategy through entering into unrelated product sectors.",
+    options: [
+      "backward integration",
+      "diversification",
+      "market development",
+      "integration",
+    ],
+    answer: "diversification",
+  },
+  // 31
+  {
+    question: "Entrepreneur growth is explained by all except _____?",
+    options: [
+      "Franchising theory",
+      "Acquisition theory",
+      "Agency Theory",
+      "Organic Theory",
+    ],
+    answer: "Agency Theory",
+  },
+  {
+    question: "_____ is typical of a book of original?",
+    options: [
+      "ledger",
+      "profit and loss account",
+      "school fee receipt",
+      "balance sheet",
+    ],
+    answer: "school fee receipt",
+  },
+  {
+    question:
+      "PEARLS cosmetic products (soap, lotion, cream powder) is an example of _____ brand naming approach?",
+    options: ["corporate", "generic", "family", "individual", "unbranded"],
+    answer: "individual",
+  },
+  {
+    question:
+      "SONY company products (e.g., television, radio, phone) brand naming follows _____ type?",
+    options: ["corporate", "generic", "family", "individual", "unbranded"],
+    answer: "individual",
+  },
+  {
+    question:
+      "Competitive advertising, inroads of competitors, intensive distribution, and product depth strategies are features of the _____ stage of the product life cycle?",
+    options: ["introduction", "decline", "growth", "maturity"],
+    answer: "maturity",
+  },
+  {
+    question:
+      "A business managed and owned by family members simply defines _____?",
+    options: [
+      "group of companies",
+      "partnership",
+      "sole proprietor",
+      "blood relation only",
+      "family business",
+    ],
+    answer: "sole proprietor",
+  },
+  {
+    question:
+      "_____ is a more practical approach and is synonymous with a business plan?",
+    options: [
+      "contingency plan",
+      "executive summary",
+      "master plan",
+      "blueprint",
+      "feasibility plan",
+    ],
+    answer: "feasibility plan",
+  },
+  {
+    question: "Entrepreneurs who are freelancers to make a living are _____?",
+    options: ["petty traders", "social entrepreneurs", "hustlers", "agberos"],
+    answer: "hustlers",
+  },
+  {
+    question: "The three-circle model encompasses all EXCEPT one _____?",
+    options: ["family", "ownership", "management", "successor"],
+    answer: "successor",
+  },
+  {
+    question:
+      "The best entrepreneurial leadership style can be described as _____?",
+    options: [
+      "participating",
+      "situational",
+      "laissez-faire",
+      "autocratic",
+      "none of the above",
+    ],
+    answer: "situational",
+  },
+  {
+    question:
+      "The undesirable business communication channel is found in _____?",
+    options: [
+      "memo",
+      "group seminar",
+      "verbal",
+      "company handbook",
+      "grapevine",
+    ],
+    answer: "grapevine",
+  },
+  {
+    question:
+      "One bad side of the coin of being a man in business includes all except _____?",
+    options: [
+      "succession plan",
+      "continuity",
+      "tussle for ownership",
+      "quick decision",
+    ],
+    answer: "quick decision",
+  },
+  {
+    question:
+      "In limited liability company registration, the public external document for the registration of corporations is _____?",
+    options: [
+      "memorandum of association",
+      "articles of association",
+      "list and particulars of directors",
+      "tax clearance certificate",
+    ],
+    answer: "memorandum of association",
+  },
+  {
+    question: "The sequence of entrepreneur management function is _____?",
+    options: [
+      "planning, organizing, directing, coordinating, and controlling",
+      "planning, organizing, directing, decision and controlling",
+      "decision making, organizing, directing, coordinating and controlling",
+      "planning, organizing, directing, coordinating and reporting",
+    ],
+    answer: "planning, organizing, directing, coordinating, and controlling",
+  },
+  {
+    question: "The first stage of every e-business model is _____?",
+    options: [
+      "sources of revenue",
+      "value proposition",
+      "e-business concept",
+      "favorable policy of government",
+    ],
+    answer: "e-business concept",
+  },
+  {
+    question:
+      "The factor spurring entrepreneurship in rapid growth markets creates _____?",
+    options: ["opportunity", "necessity", "innovation", "commitment"],
+    answer: "innovation",
+  },
+  {
+    question:
+      "The owner sources of funding entrepreneurial ideas include all EXCEPT one _____?",
+    options: ["equity", "angel financing", "shares", "personal savings"],
+    answer: "equity",
+  },
+  {
+    question: "Frederick W. Taylor's theory focuses on _____?",
+    options: [
+      "unity of command",
+      "work environment",
+      "social relations",
+      "pay and productivity",
+      "salary and wages",
+    ],
+    answer: "pay and productivity",
+  },
+  {
+    question:
+      "The Hawthorne experiment on light, air conditioning, and human relations management focuses on _____?",
+    options: [
+      "illumination environment",
+      "production",
+      "quantity",
+      "motivation",
+    ],
+    answer: "illumination environment",
+  },
+  {
+    question:
+      "Light, air conditioning, and clean environment, human relations management theory was proposed by _____?",
+    options: ["Elton Mayo", "Adam Smith", "Henri Fayol", "Abraham Maslow"],
+    answer: "Elton Mayo",
+  },
+  // 51
+  {
+    question:
+      "Which of these is not a technique for assessing business opportunities?",
+    options: [
+      "Net present value (NPV)",
+      "Break-even approach",
+      "Linear programming (LP)",
+      "Balance sheet",
+    ],
+    answer: "Balance sheet",
+  },
+  {
+    question: "Who developed the 14 principles?",
+    options: ["Elton Mayo", "Adam Smith", "Henri Fayol", "Abraham Maslow"],
+    answer: "Henri Fayol",
+  },
+  {
+    question:
+      "_____ is the area of uncertainty where the probability of success is less than zero?",
+    options: ["Business Risk", "Risk Return", "Insurance", "Risk Averter"],
+    answer: "Business Risk",
+  },
+  {
+    question: "Risk returns trade-off represents _____?",
+    options: [
+      "More the risk, the more the returns",
+      "Less risk equals returns",
+      "More risk and less returns",
+      "Average risk less investment",
+    ],
+    answer: "More the risk, the more the returns",
+  },
+  {
+    question: "_____ is not an example of fixed costs?",
+    options: [
+      "Salaries",
+      "Unskilled wages",
+      "Land",
+      "Building",
+      "Furniture and fittings",
+    ],
+    answer: "Unskilled wages",
+  },
+  {
+    question: "One of these is NOT an accounting book?",
+    options: [
+      "Balance sheet",
+      "Fixed Account",
+      "Cash-flow statement",
+      "Statement of shareholders' equity",
+    ],
+    answer: "Fixed Account",
+  },
+  {
+    question:
+      "The following are e-business revenue functions in a typical website EXCEPT?",
+    options: [
+      "Advertising and agent commission",
+      "Affiliation and licensing",
+      "Subscription and use fee",
+      "Syndication and sales profit",
+      "Activities and capabilities",
+    ],
+    answer: "Activities and capabilities",
+  },
+  {
+    question:
+      "The short term sources of loans for an entrepreneur include all EXCEPT?",
+    options: ["Debenture", "Equity", "Preference shares", "Overdraft"],
+    answer: "Debenture",
+  },
+  {
+    question:
+      "_____ is the easiest share to get in a joint stock company as an entrepreneur?",
+    options: [
+      "Common share",
+      "Bonus shares",
+      "Preference shares",
+      "Cumulative",
+    ],
+    answer: "Common share",
+  },
+  {
+    question:
+      "Internal duty to ensure complete order processing and prompt order delivery is handled by _____?",
+    options: [
+      "Missionary salespeople",
+      "Order delivery",
+      "Order taker",
+      "Service people",
+    ],
+    answer: "Order delivery",
+  },
+  {
+    question: "Sony electronic prides on these brand name qualities except?",
+    options: ["Memorable", "Meaningful", "Protectable", "Adaptable", "Global"],
+    answer: "Global",
+  },
+  {
+    question:
+      "The first and second to last stages in the personal selling process are _____?",
+    options: [
+      "Prospecting and closing sales",
+      "Approach and pre-approach",
+      "Prospecting and follow up",
+      "Closing sales and prospecting",
+    ],
+    answer: "Closing sales and prospecting",
+  },
+  {
+    question:
+      "Canned sales packages are used during what stage of the selling process?",
+    options: [
+      "Closing sale",
+      "Presentation",
+      "Handling objection",
+      "Prospecting",
+    ],
+    answer: "Presentation",
+  },
+  {
+    question:
+      "_____ is used to represent all interested parties in a business firm's activities?",
+    options: [
+      "Stockholder",
+      "Stakeholders",
+      "Shareholder",
+      "Public environment",
+    ],
+    answer: "Stakeholders",
+  },
+  {
+    question:
+      "Principal and interest on loan payments are made in equal intervals on a time period. This is called _____?",
+    options: [
+      "Annuity",
+      "Compound interest",
+      "Amortization",
+      "Interest rate",
+      "Return on equity",
+    ],
+    answer: "Amortization",
+  },
+  {
+    question:
+      "By law, the hardest and most cumbersome type of business to form is _____?",
+    options: [
+      "Sole proprietorship",
+      "Partnership",
+      "Company",
+      "Limited liability company",
+      "Co-operative society",
+    ],
+    answer: "Limited liability company",
+  },
+  {
+    question: "_____ can be used to replace a partnership deed?",
+    options: [
+      "Partnership Act",
+      "Legal entity",
+      "Second reading",
+      "Partnership Bill",
+    ],
+    answer: "Partnership Act",
+  },
+  {
+    question:
+      "To handle employee quarrels, personality issues, and problems, _____ is required?",
+    options: [
+      "Technical skill",
+      "Human skill",
+      "Conceptual skill",
+      "Managerial skill",
+    ],
+    answer: "Human skill",
+  },
+  {
+    question:
+      "Business opportunities can be gotten from unmet customer needs and offering substitute goods. True or False?",
+    options: ["Not sure", "False", "True", "All of the above"],
+    answer: "True",
+  },
+  {
+    question: "A common characteristic of a good entrepreneur is _____?",
+    options: [
+      "Risk averter",
+      "Nobility",
+      "Risk taker",
+      "Pessimistic",
+      "All of the above",
+    ],
+    answer: "Risk taker",
+  },
+  {
+    question: "Which of these P's is not cost-saving?",
+    options: ["Product", "Price", "Place", "Promotion"],
+    answer: "Price",
+  },
+  {
+    question:
+      "The first stage in managing the entrepreneurial risk process is _____?",
+    options: [
+      "Risk planning",
+      "Risk mitigating",
+      "Risk control",
+      "Risk implementation",
+    ],
+    answer: "Risk implementation",
+  },
+  {
+    question:
+      "_____ is visiting places for leisure other than for business reasons?",
+    options: ["Travelling", "Tourism", "Hospitality", "Destination"],
+    answer: "Travelling",
+  },
+  {
+    question: "SMART acronym is synonymous with?",
+    options: ["Objective", "Planning", "Order", "Span of control"],
+    answer: "Objective",
+  },
+  {
+    question:
+      "Which of these is the most popular social media platform for business activities?",
+    options: ["Facebook", "Social media", "Twitter", "OLX", "Blog"],
+    answer: "Facebook",
+  },
+  {
+    question:
+      "_____ entrepreneurship type differs in initiation, risk, and innovation in an existing organization?",
+    options: [
+      "Intrapreneur",
+      "Entrepreneur",
+      "Intrapersonal",
+      "Social entrepreneur",
+      "Corporate entrepreneurship",
+    ],
+    answer: "Intrapreneur",
+  },
+  {
+    question: "An entrepreneur has this _____ outlook for sustainable success?",
+    options: [
+      "Leader",
+      "Futuristic",
+      "Innovator",
+      "All of the above",
+      "None of the above",
+    ],
+    answer: "All of the above",
+  },
+  {
+    question:
+      "_____ offers selfless solutions to societal causes and daunting challenges?",
+    options: [
+      "Social Entrepreneur",
+      "Socialist enterprise",
+      "Entrepreneur",
+      "Philanthropist",
+      "Political entrepreneur",
+    ],
+    answer: "Social Entrepreneur",
+  },
+  {
+    question: "The following are benefits of e-commerce except?",
+    options: [
+      "Convenience",
+      "Competitive pricing",
+      "Product comparisons",
+      "Rigidity",
+    ],
+    answer: "Rigidity",
+  },
+  {
+    question:
+      "The e-business models consist of the following, with the exception of?",
+    options: [
+      "Value proposition",
+      "Source of revenue",
+      "Resources and capabilities",
+      "Structuring",
+    ],
+    answer: "Structuring",
+  },
+  {
+    question: "Value proposition includes the following with the exception of?",
+    options: [
+      "Improved service",
+      "Speed of delivery",
+      "Increased efficiency",
+      "Increased duplication of efforts",
+    ],
+    answer: "Increased duplication of efforts",
+  },
+  {
+    question: "The sources of revenue include the following, except?",
+    options: ["Licensing", "Extortion", "Sales commission", "Syndication"],
+    answer: "Extortion",
+  },
+  {
+    question: "Disruptive technology connotes new technology that _____?",
+    options: [
+      "Follows conventional approaches",
+      "Destroys technology",
+      "Alters service delivery patterns",
+      "Adoption of technology",
+    ],
+    answer: "Alters service delivery patterns",
+  },
+  {
+    question:
+      "_____ represents a picture or perceptual entity that governs consumer minds and choices?",
+    options: ["Brand", "Product", "Service", "Mass communication"],
+    answer: "Brand",
+  },
+  {
+    question:
+      "Easily recalled, short syllable words are characteristics of _____ as a good brand name?",
+    options: ["Meaningful", "Memorable", "Adaptable", "Likeable"],
+    answer: "Memorable",
+  },
+  {
+    question: "Selling and salesmanship are the same. True or False?",
+    options: ["True", "False", "All of the above", "None of the above"],
+    answer: "False",
+  },
+  {
+    question: "The roles of salespeople include the following, except?",
+    options: [
+      "Generate sales revenue",
+      "Change buyers",
+      "Provide marketplace information",
+      "Meet buyers' expectations",
+    ],
+    answer: "Change buyers",
+  },
+  {
+    question:
+      "Qualities/skills required in selling include the following, except?",
+    options: ["Technical", "Human", "Professional", "Conceptual"],
+    answer: "Professional",
+  },
+  {
+    question:
+      "The three key activities in a salesperson's development include the following, except?",
+    options: ["Recruiting", "Selecting", "Selling", "Training"],
+    answer: "Selecting",
+  },
+  {
+    question:
+      "According to Johnston and Marshall, the new sales management issues represent three key themes, which include the following, except?",
+    options: ["Innovation", "Strategy", "Technology", "Leadership"],
+    answer: "Strategy",
+  },
+  {
+    question:
+      "The three forms of market coverage include the following, except?",
+    options: [
+      "Selective distribution",
+      "Intensive distribution",
+      "Global distribution",
+      "Exclusive distribution",
+    ],
+    answer: "Global distribution",
+  },
+  {
+    question:
+      "The challenges of family businesses include the following, except?",
+    options: [
+      "Lack of succession planning",
+      "Unincorporated enterprises",
+      "Low operational cost",
+      "Financial constraints",
+    ],
+    answer: "Low operational cost",
+  },
+  {
+    question:
+      "Working out payment modalities may be cumbersome and could lead to disputes; this is a disadvantage of family businesses. True or False?",
+    options: ["True", "False"],
+    answer: "True",
+  },
+  {
+    question:
+      "Traits traditionally ascribed to women include the following, except?",
+    options: ["Gentle", "Logical", "Emotional", "Sensitive"],
+    answer: "Logical",
+  },
+  {
+    question:
+      "Factors that contribute to the success of women entrepreneurs in small businesses include the following, except?",
+    options: [
+      "Good management skills",
+      "All government support",
+      "Access to financing",
+      "Personal qualities",
+    ],
+    answer: "All government support",
+  },
+  {
+    question: "Qualities of women entrepreneurs include the following, except?",
+    options: [
+      "Determination",
+      "Creative",
+      "Complacent",
+      "Profit-earning capacity",
+    ],
+    answer: "Complacent",
+  },
+  {
+    question: "A common intellectual property among actors and actresses is?",
+    options: ["Patent", "Copyright", "Market space", "Trade secrets"],
+    answer: "Copyright",
+  },
+  {
+    question:
+      "_____ is any information and resources that a business possesses that gives it an advantage over competitors who are ignorant of it?",
+    options: [
+      "Trade secrets",
+      "Intellectual rights",
+      "Market intelligence",
+      "Trademark",
+      "Market research",
+    ],
+    answer: "Trade secrets",
+  },
+  {
+    question:
+      "Entrepreneurs can create an ethical culture by engaging the following, except?",
+    options: [
+      "Visible role models",
+      "Provide ethical training",
+      "Adopt the end justifies the means approach",
+      "Communicate ethical expectations",
+    ],
+    answer: "Adopt the end justifies the means approach",
+  },
+  {
+    question: "Causes of unethical behaviors include the following, except?",
+    options: [
+      "Poor moral background",
+      "Weak sanctions",
+      "Poverty",
+      "Effective leadership",
+    ],
+    answer: "Effective leadership",
+  },
+  // 101
+  {
+    question:
+      "_________ is a set of activities, processes and decisions taken by organizations in order to create favorable societal outcomes and environmental sustainability.",
+    options: [
+      "Governance",
+      "Corporate social responsibility",
+      "Product responsibility",
+      "Citizenship",
+      "Environmentalism",
+    ],
+    answer: "Corporate social responsibility",
+  },
+  {
+    question:
+      "______ is a good or favourable change available to run a specific business in a given environment at a given point of time.",
+    options: [
+      "Business opportunity",
+      "Optimist",
+      "Savoury",
+      "Business placement",
+    ],
+    answer: "Business placement",
+  },
+  {
+    question: "Pay back period is an example of_________ analysis.",
+    options: [
+      "Liquidity",
+      "Manpower",
+      "Profit",
+      "Dividend",
+      "Capital budgeting",
+    ],
+    answer: "Capital budgeting",
+  },
+  {
+    question:
+      "_____________________ is a major example of entrepreneur in every economy.",
+    options: [
+      "Government",
+      "Industrialist",
+      "Venture capitalist",
+      "School",
+      "Church",
+    ],
+    answer: "Government",
+  },
+  {
+    question:
+      "Statement of cash flow contains operating, financial and investing activities of a company____.",
+    options: ["True", "False", "Cash book", "Income statement"],
+    answer: "True",
+  },
+  {
+    question:
+      "The following factors are impediments to entrepreneurial practice in Nigeria except____.",
+    options: ["The entrepreneurs’ mindset", "Fear", "Innovativeness", "Worry"],
+    answer: "Innovativeness",
+  },
+  {
+    question:
+      "The various components of the external environment that directly and consistently interfere with the daily activities of the firm is known as____.",
+    options: ["Interest groups", "Suppliers", "Deciders", "Government law"],
+    answer: "Government law",
+  },
+  {
+    question:
+      "Public limited company (PLC) share membership composition is made of ____.",
+    options: ["7 -21", "21 50", "21 - infinity", "1 unlimited number"],
+    answer: "21 - infinity",
+  },
+  {
+    question:
+      "For a new idea to be recognized as a business idea, it must be____.",
+    options: ["Diplomatic", "Feasible", "Viable", "b & a", "All of the above"],
+    answer: "b & a",
+  },
+  {
+    question:
+      "_________ the first assets on the balance sheet according to an order.",
+    options: ["Building", "Land", "Sale potentials", "Cash"],
+    answer: "Building",
+  },
+  {
+    question:
+      "The first and last stages in market research process for SMEs EXCEPT ________.",
+    options: [
+      "Data collection and report",
+      "Problem definition and report",
+      "Objective and data analysis",
+      "Problem definition and data collection",
+    ],
+    answer: "Objective and data analysis",
+  },
+  {
+    question:
+      "Growth opportunity strategy that mixes its operations at different levels of the production and marketing process is ____.",
+    options: [
+      "Market strategy",
+      "Vertical integration",
+      "Penetration strategy",
+      "None of the above",
+    ],
+    answer: "Vertical integration",
+  },
+  {
+    question:
+      "_______ is defined as the art of recording business transactions in chronological and systematic manner so as to show firms financial position at any given date.",
+    options: ["Accounting", "Book keeping", "Recording", "a & b"],
+    answer: "Book keeping",
+  },
+  {
+    question:
+      "Selecting a homogeneous of the whole market place for effective marketing mix by a company ____.",
+    options: [
+      "Positioning",
+      "Mass marketing",
+      "Segmentation",
+      "Penetration targeting",
+    ],
+    answer: "Segmentation",
+  },
+  {
+    question: "One is an element of traditional marketing mix____.",
+    options: ["Physical distribution", "People", "Process", "Firm"],
+    answer: "Physical distribution",
+  },
+  {
+    question: "Common types of market segmentation includes all EXCEPT____.",
+    options: [
+      "Product",
+      "Demographic",
+      "Geography",
+      "Psychographic",
+      "Environment",
+    ],
+    answer: "Environment",
+  },
+  {
+    question: "Drawing in goods refers to?",
+    options: [
+      "Goods taking for church use only",
+      "Goods for resale but now taken for personal use",
+      "Drawing in cash",
+      "Goods withdraw but spoil",
+      "Owner's personal goods",
+    ],
+    answer: "Goods for resale but now taken for personal use",
+  },
+  {
+    question:
+      "Major heading of interest to stakeholder are summarized in Balance sheet are ____.",
+    options: [
+      "Assets and capital, debt",
+      "Fixed assets, current assets and equity",
+      "Liabilities salary and capital",
+      "Liabilities and capital Assets",
+    ],
+    answer: "Liabilities and capital Assets",
+  },
+  {
+    question: "_____________ are various types of partners except ____.",
+    options: ["Sleeping", "Active", "Nominal", "Limited", "Life"],
+    answer: "Limited",
+  },
+  {
+    question: "Analysing financial statement include all EXCEPT one ____.",
+    options: [
+      "Cash book analysis",
+      "Debt equity analysis",
+      "Fund flow analysis",
+      "Cash flow analysis",
+    ],
+    answer: "Cash book analysis",
+  },
+  {
+    question:
+      "___________ Entry record is the first in any typical profit/ loss account and trading account.",
+    options: [
+      "Cost of good",
+      "Net profit",
+      "Sales",
+      "Profits",
+      "Interest payment",
+    ],
+    answer: "Sales",
+  },
+  {
+    question: "____ Stock market members are all but.",
+    options: [
+      "The Nigerian Stock Exchange",
+      "Brokers",
+      "Registrars",
+      "Investors",
+    ],
+    answer: "Registrars",
+  },
+  {
+    question: "The one channel used for distribution of technical goods is.",
+    options: [
+      "Wholesalers ----------- retailers ---------- agents ---------- consumers",
+      "Producers ------------- wholesalers --------- retailers --------- consumers",
+      "Producers ------------ consumers",
+      "Producers ------- agents ------ consumers",
+    ],
+    answer: "Producers ------- agents ------ consumers",
+  },
+  {
+    question:
+      "Significance of engaging in an informal entrepreneur are all except one in Nigeria ____.",
+    options: [
+      "Employment",
+      "Income",
+      "Self-fulfilment",
+      "Self-reliance",
+      "All of the above",
+    ],
+    answer: "All of the above",
+  },
+  {
+    question:
+      "___________ is Not a sources document where other accounting particulars are first entered.",
+    options: [
+      "Invoice",
+      "Debit note",
+      "Bank teller",
+      "Trading account",
+      "Cheque",
+    ],
+    answer: "Trading account",
+  },
+  {
+    question:
+      "This correct accounting equation 'Assets = equity + liabilities' is used to summarize ____.",
+    options: [
+      "Asset",
+      "Balance sheet",
+      "Ledger account",
+      "Profit and loss account",
+    ],
+    answer: "Ledger account",
+  },
+  {
+    question:
+      "The strongest and less convertible asset among the followings is ____.",
+    options: ["Debtor", "Motor vehicle", "Land", "Stock of goods"],
+    answer: "Land",
+  },
+  {
+    question:
+      "The level of management are ________ in any typical organization.",
+    options: ["3", "2", "1", "4"],
+    answer: "3",
+  },
+  {
+    question:
+      "_________________ is a salient sale man find in every product ____.",
+    options: ["Salesforce", "CEO", "Product", "Promotion", "Packaging"],
+    answer: "Packaging",
+  },
+  {
+    question: "A trademark is ____.",
+    options: [
+      "Word, name that a business uses to identify its goods.",
+      "A legal protection for information on foreign products.",
+      "Symbol, device as identifier and Legal protection of intellectual works.",
+      "Legal protection for product exported to another country.",
+    ],
+    answer:
+      "Symbol, device as identifier and Legal protection of intellectual works.",
+  },
+  {
+    question: "All is involved to operate Licensing arrangements, except ____.",
+    options: [
+      "Operational control",
+      "Royalty",
+      "Low brand image",
+      "Contractual agreement",
+    ],
+    answer: "Low brand image",
+  },
+  {
+    question:
+      "Entrepreneur can go into international business with which of the following strategy ___.",
+    options: [
+      "Licensing",
+      "Exporting",
+      "Multinational",
+      "All of the above",
+      "a and b only",
+    ],
+    answer: "All of the above",
+  },
+  {
+    question:
+      "__________ is not a personal characteristic trait that is helpful for an entrepreneur's success.",
+    options: ["Visionary", "Pessimistic", "Passionate", "Optimism"],
+    answer: "Pessimistic",
+  },
+  {
+    question: "All are characteristics of industry competition except ___.",
+    options: [
+      "Number buyer seller",
+      "Degree of product bundling",
+      "Degree of exit and barrier",
+      "Degree of vertical integration",
+      "Cost structure",
+    ],
+    answer: "Degree of product bundling",
+  },
+  {
+    question:
+      "_________ is percentage of share a company has from the industry total sale.",
+    options: ["Share of wallet", "Market sales", "Market share", "Sales quota"],
+    answer: "Market share",
+  },
+  {
+    question:
+      "________ NOT one of the ways to increase women entrepreneurship participation ____.",
+    options: [
+      "Socialization of women",
+      "Stereotype sex role",
+      "Androgyny",
+      "Acculturation",
+      "Career self-efficacy",
+    ],
+    answer: "Acculturation",
+  },
+  {
+    question:
+      "Identifying, comparing and measuring, even scanning and diagnosing all the business environment refer to _______.",
+    options: [
+      "Situational analysis",
+      "SWOT analysis",
+      "BCG model analysis",
+      "Environmental prognosis",
+    ],
+    answer: "SWOT analysis",
+  },
+  {
+    question: "Which of the following should not be called sales ____.",
+    options: [
+      "Goods sold, to be paid for one month’s time",
+      "Goods sold, cash being received immediately",
+      "Items previously included in purchases, now sold on credit",
+      "Sale of a motor lorry not now required",
+    ],
+    answer: "Sale of a motor lorry not now required",
+  },
+  {
+    question:
+      "Which of the followings medium does not have wider coverage and penetration.",
+    options: ["Billboard", "Transit", "Television", "Social media", "Radio"],
+    answer: "Billboard",
+  },
+  {
+    question: "Which of these statements is incorrect? ____.",
+    options: [
+      "Drawing increases profit",
+      "A loss decreases capital",
+      "Profit increases capital",
+      "Drawings decrease capital",
+    ],
+    answer: "Drawing increases profit",
+  },
+  {
+    question: "Brand play significant role in organization but for ____.",
+    options: [
+      "Identify the maker",
+      "Simplify decision making",
+      "Give intellectual protection",
+      "Provide valuation and financial return",
+      "Risk apportionment",
+    ],
+    answer: "Risk apportionment",
+  },
+  {
+    question:
+      "Entrepreneurs evaluation of business operation and reward in Net profit is calculated in all except ____.",
+    options: [
+      "Trial balance",
+      "Trading account",
+      "Profit and loss account",
+      "Balance sheet",
+    ],
+    answer: "Balance sheet",
+  },
+  {
+    question: "The indirect effect of tax burden is transferred to the ____.",
+    options: ["Consumer", "Investor", "Government", "Suppliers", "Profit"],
+    answer: "Consumer",
+  },
+  {
+    question:
+      "_______ and __________ are two sides of the coin that help positive interface with the organization and society.",
+    options: [
+      "Ethics and CSR",
+      "Strategy and planning",
+      "CRM and ethics",
+      "Ethics and public",
+    ],
+    answer: "Ethics and CSR",
+  },
+  {
+    question:
+      "Which of these is not used to create entrepreneur ethical culture ____.",
+    options: [
+      "Visible role model",
+      "Communicate ethical expectations",
+      "Provide ethical training",
+      "Visibly reward ethical act and punish unethical ones",
+      "All of the above",
+    ],
+    answer: "Visible role model",
+  },
+  {
+    question:
+      "A wider model to explain stakeholders of corporate social responsibility is proposed by.",
+    options: ["Carroll, 1996", "Aaker, 2011", "Keller, 1990", "Igwe, 2009"],
+    answer: "Carroll, 1996",
+  },
+  {
+    question:
+      "The variants of Corporate social responsibility suggest that business expectation is to cover.",
+    options: [
+      "Shareholder profit",
+      "Law abiding",
+      "Environmentally conscious",
+      "All of the above",
+      "b and c only",
+    ],
+    answer: "All of the above",
+  },
+  {
+    question:
+      "Social entrepreneur is characteristically described as ________ in Nigeria and West Africa.",
+    options: [
+      "David Oyedepo",
+      "Dangote company",
+      "Elemelu foundation",
+      "NNPC/Shell joint vent",
+    ],
+    answer: "David Oyedepo",
+  },
+  {
+    question:
+      "Any patents, trademarks, copyright or trade secrets held by the entrepreneur is____.",
+    options: [
+      "Copyright",
+      "Patent",
+      "Intellectual property",
+      "Trade secret property",
+      "All of the above",
+    ],
+    answer: "Intellectual property",
+  },
+  {
+    question:
+      "To reap from creative and innovative, the state must allow _______.",
+    options: [
+      "Human right to association",
+      "Intellectual property right",
+      "Manufacturing right",
+      "Publishing right",
+      "a and c only",
+    ],
+    answer: "Intellectual property right",
+  },
+  // 151
+  {
+    question: "Arrange current assets in ascending flow in balance ____.",
+    options: [
+      "Debtors, bank, stock, cash",
+      "Cash, creditor, debtor, stock",
+      "Stock, debtors, cash, bank",
+      "Cash, bank, debtors, stock",
+    ],
+    answer: "Cash, creditor, debtor, stock",
+  },
+  {
+    question:
+      "Cash discount and trade discount aim to get ____ and _______ respectively.",
+    options: [
+      "More trade relationship and more prompt cash payment",
+      "Cash payment and volume of sale",
+      "Large quantity purchase and more trade relationship",
+      "More prompt payment and more purchase",
+      "More prompt cash payment and more trade relationship",
+    ],
+    answer: "More prompt cash payment and more trade relationship",
+  },
+  {
+    question: "Major drawback of limited liability company is ____.",
+    options: [
+      "Multiple taxation",
+      "Perpetuity",
+      "Accesses to fund",
+      "Legal entity",
+    ],
+    answer: "Multiple taxation",
+  },
+  {
+    question:
+      "___ and ____ are the two major components of entrepreneur environment.",
+    options: [
+      "Political and economic",
+      "Business and non-business",
+      "Internal and task",
+      "All of the above",
+    ],
+    answer: "Business and non-business",
+  },
+  {
+    question:
+      "Social, political and legal arrangements are under ____ environment.",
+    options: ["Market", "Internal", "External", "Economic"],
+    answer: "External",
+  },
+  {
+    question:
+      "___________________ level management is saddled with strategic decision ____.",
+    options: ["Top management", "Middle", "HOD", "Lower"],
+    answer: "Top management",
+  },
+  {
+    question:
+      "The government is seen as the biggest entrepreneur through what role _____?",
+    options: [
+      "Enabling policy",
+      "Financial support",
+      "Infrastructural enabler",
+      "A and B only",
+      "All of the above",
+    ],
+    answer: "All of the above",
+  },
+  {
+    question:
+      "An intent of positioning a firm in the long run with a given industry is ____.",
+    options: [
+      "Vision statement",
+      "Mission statement",
+      "Strategy",
+      "Business purpose",
+    ],
+    answer: "Vision statement",
+  },
+  {
+    question:
+      "_______ is not a major characteristic of the mission statement of Facebook company as typical ____.",
+    options: [
+      "Statement of who benefits",
+      "Statement of how",
+      "Statement of product/service offered",
+      "Statement of location of industry",
+    ],
+    answer: "Statement of location of industry",
+  },
+  {
+    question:
+      "Vision and mission statements and objectives are mostly discussed in _____ stage of strategic management.",
+    options: ["Planning", "Situational analysis", "Control", "Implementation"],
+    answer: "Planning",
+  },
+  {
+    question:
+      "Work schedule and budgets, material requirements planning, job flow and technicality are typical feasibility items typically found under ____.",
+    options: [
+      "Product analysis",
+      "Job analysis",
+      "System/production",
+      "Job specification",
+    ],
+    answer: "System/production",
+  },
+  {
+    question:
+      "First stage of planning is all geared towards answering on except ____.",
+    options: ["Goal", "Vision", "Objective", "Execution", "Mission"],
+    answer: "Execution",
+  },
+  {
+    question:
+      "Major drawback and common characteristics of small businesses are all except _______ and ________.",
+    options: [
+      "Local technology and taxation gain",
+      "Labour intensive and easy start",
+      "Unlimited liability and lack of perpetuity",
+      "One-man ownership and quick decision",
+    ],
+    answer: "Unlimited liability and lack of perpetuity",
+  },
+  {
+    question:
+      "Access Bank joining strength with Diamond Bank and retaining their seemingly identity is an example of ---------- growth strategy.",
+    options: ["Franchise", "Acquisition", "Leasor", "Merger"],
+    answer: "Merger",
+  },
+  {
+    question:
+      "______ concern towards law, consumer, and employee the external stakeholders.",
+    options: [
+      "Corporate governance",
+      "Cause marketing",
+      "Citizenship",
+      "Corporate social responsibility",
+    ],
+    answer: "Corporate social responsibility",
+  },
+  {
+    question:
+      "In changes in product design and reinforcement advertising is predominant ----------- product life cycle?",
+    options: ["Maturity", "Decline", "Growth", "Introduction"],
+    answer: "Decline",
+  },
+  {
+    question:
+      "The process of rejuvenating a product in the declining stage is ________.",
+    options: [
+      "Product lifecycle",
+      "Product extension",
+      "Production modification",
+      "Product modification",
+    ],
+    answer: "Product modification",
+  },
+  {
+    question:
+      "Theory _______ assumes that workers are lazy but need to be motivated with force or incentive.",
+    options: ["X", "Need theory", "Type A", "Y"],
+    answer: "X",
+  },
+  {
+    question:
+      "Major disadvantage of one-man business e.g. ABIOLA M.K.O is ____.",
+    options: ["Easy start", "Continuity", "Quick decision", "Ownership tussle"],
+    answer: "Continuity",
+  },
+  {
+    question: "Increase in interval repayment of loan will cause ______.",
+    options: [
+      "Interest payable",
+      "Increase principal",
+      "Decrease in amortization amount",
+      "Increase in amortization amount",
+    ],
+    answer: "Increase in amortization amount",
+  },
+  {
+    question:
+      "Which of these policies has the highest chances of making and taking premium claims ________?",
+    options: [
+      "Property insurance",
+      "Marine insurance",
+      "Fire insurance",
+      "Life assurance",
+    ],
+    answer: "Life assurance",
+  },
+  {
+    question:
+      "Major determinants of final price of product are all except ____.",
+    options: [
+      "Demand",
+      "Cost structure",
+      "Competition",
+      "Government",
+      "Social forces",
+    ],
+    answer: "Social forces",
+  },
+  {
+    question:
+      "Goodwill arising from long stay and good brand name is recorded as ____.",
+    options: ["Assets", "Losses", "Liability", "Sales day book"],
+    answer: "Assets",
+  },
+  {
+    question:
+      "A collection of brand lines a firm offers to the market ______________.",
+    options: [
+      "Brand mix",
+      "Brand breadth",
+      "Product width",
+      "Product assortment",
+    ],
+    answer: "Brand breadth",
+  },
+  {
+    question:
+      "A total of all brands offered to the market by a firm at a given time is _________.",
+    options: [
+      "Brand mix",
+      "Brand breadth",
+      "Product width",
+      "Product assortment",
+    ],
+    answer: "Brand mix",
+  },
+  {
+    question: "The apex of every hierarchy of need pyramid is __________.",
+    options: ["Safety need", "Social need", "Actualization", "Physiology"],
+    answer: "Actualization",
+  },
+  {
+    question:
+      "An independent expert charged with overseeing all logistics for any organization is _________________.",
+    options: [
+      "Supply management",
+      "Contractor",
+      "Third-party logistics",
+      "Wholesaler",
+    ],
+    answer: "Third-party logistics",
+  },
+  {
+    question:
+      "The real value of money is ______________ related to the price and quantity of goods.",
+    options: ["Equally", "Directly", "Positively", "Inversely"],
+    answer: "Inversely",
+  },
+  {
+    question: "To compensate for time value of money _______________ is paid.",
+    options: ["Annuity", "Present value", "Interest", "Amount", "Principal"],
+    answer: "Interest",
+  },
+  {
+    question:
+      "______________ is described as assigning each employee tasks that they can become proficient at.",
+    options: [
+      "Workflow",
+      "Job segmentation",
+      "Division of labour",
+      "Specialization",
+    ],
+    answer: "Division of labour",
+  },
+  {
+    question:
+      "Receiving orders from one superior only at a given time, in a given organization is _________________",
+    options: [
+      "Authority",
+      "Unity direction",
+      "Division of labour",
+      "Unity command",
+    ],
+    answer: "Unity command",
+  },
+  {
+    question:
+      "Employee understanding where they stand in organizational hierarchy is ______________.",
+    options: ["Scalar chain", "Job segmentation", "Order", "Organogram"],
+    answer: "Scalar chain",
+  },
+  {
+    question:
+      "Organization and employee striving to promote team spirit, unity and morale according to Henri Fayol is practicing ____.",
+    options: [
+      "Motivation",
+      "Productivity",
+      "Discipline",
+      "Initiative",
+      "Esprit de corps",
+    ],
+    answer: "Esprit de corps",
+  },
+  {
+    question:
+      "_________________ is adding dimension to the scope and duties, responsibility of an employee within the same level and periphery.",
+    options: [
+      "Job description",
+      "Job design",
+      "Job enrichment",
+      "Job specification",
+    ],
+    answer: "Job enrichment",
+  },
+  {
+    question:
+      "The first step in the entrepreneurial process is _______________.",
+    options: ["Decision making", "Idea", "Planning", "Specialization"],
+    answer: "Idea",
+  },
+  {
+    question: "Entrepreneur business life cycle follows from ____.",
+    options: ["Launch", "Growth", "Introduction", "Shake-out"],
+    answer: "Launch",
+  },
+  {
+    question:
+      "_______________ is a way of thinking that enables you to overcome challenges, be decisive and accept responsibility for outcomes.",
+    options: [
+      "Entrepreneurship spirit",
+      "Entrepreneurship mind-set",
+      "Entrepreneurship dream",
+      "Entrepreneurship skill",
+    ],
+    answer: "Entrepreneurship mind-set",
+  },
+  {
+    question: "Entrepreneurial innovation process starts with _______________.",
+    options: [
+      "Idea screening",
+      "Idea generation",
+      "Product development",
+      "Business analysis",
+    ],
+    answer: "Idea generation",
+  },
+  {
+    question:
+      "Experimentation, pilot development, prototype and sample are commonly found in what stage of innovation process ____________.",
+    options: [
+      "Product development",
+      "Product idea generation",
+      "Concept testing",
+      "Product diffusion",
+    ],
+    answer: "Product development",
+  },
+  {
+    question:
+      "In the product innovation process, mass production, lower unit cost, and use of mass marketing mix are features of _____.",
+    options: [
+      "Test marketing",
+      "Business analysts",
+      "Advertising",
+      "Commercialization",
+    ],
+    answer: "Commercialization",
+  },
+  {
+    question:
+      "According to Schumpeter, innovation types are __________________.",
+    options: ["5", "4", "6", "3"],
+    answer: "5",
+  },
+  {
+    question:
+      "A growth strategy of increasing product style, variant, width, version and item is ____.",
+    options: [
+      "Product enlargement",
+      "Product development",
+      "Product penetration",
+      "Market penetration",
+    ],
+    answer: "Product development",
+  },
+  {
+    question:
+      "Schumpetrian entrepreneurship theory of innovation centers on ____.",
+    options: [
+      "Creative destruction",
+      "Distribution exchange",
+      "Sociological",
+      "Information theory",
+      "Economic theory",
+    ],
+    answer: "Creative destruction",
+  },
+  {
+    question: "Which one of these is not an example of type of brand?",
+    options: [
+      "Idea",
+      "Cocoa",
+      "Nokia",
+      "All of the above",
+      "None of the above",
+    ],
+    answer: "Cocoa",
+  },
+  {
+    question:
+      "Using odd prices like #3,799 to alter customers' perception is a pricing strategy called _____.",
+    options: [
+      "Prestige pricing",
+      "Physiological pricing",
+      "Odd pricing",
+      "Psychological pricing",
+      "Competitive pricing",
+    ],
+    answer: "Psychological pricing",
+  },
+  {
+    question:
+      "Schooling as a background and prerequisite for becoming a successful entrepreneur is a _______________________ condition.",
+    options: [
+      "Necessary",
+      "Sufficient",
+      "Compulsory",
+      "A must",
+      "Not sufficient",
+    ],
+    answer: "Sufficient",
+  },
+  {
+    question:
+      "A function of individual ethics in the workplace as manifested in your life __________________________.",
+    options: [
+      "Ethical principles",
+      "Kickback",
+      "Organizational culture",
+      "A & C only",
+      "All of the above",
+    ],
+    answer: "A & C only",
+  },
+  {
+    question:
+      "Entrepreneur's core reason for developing a practical blueprint in the form of a feasibility study; plans is ____________________.",
+    options: [
+      "To provide risk aversion",
+      "To know and make profit level",
+      "To conduct market survey",
+      "To convince and attract investor capital for a startup",
+    ],
+    answer: "To convince and attract investor capital for a startup",
+  },
+  {
+    question:
+      "A way of avoiding steep competition and focusing on small and profitable market segments _________________",
+    options: [
+      "Niche marketing",
+      "Mass marketing",
+      "Market followers",
+      "Target marketing",
+      "Market segmentation",
+    ],
+    answer: "Niche marketing",
+  },
+  {
+    question:
+      "Incremental search for new markets through moving products to higher land is ____.",
+    options: [
+      "Product development",
+      "Market development",
+      "Market penetration",
+      "Integrative strategy",
+      "All of the above",
+    ],
+    answer: "Market penetration",
+  },
+  // 201
+  {
+    question:
+      "Using the wisdom of the industry to set your promotion budget is __________________.",
+    options: [
+      "Parity method.",
+      "Arbitrary method",
+      "Sales method",
+      "Competitive analysis",
+      "Objective on task",
+    ],
+    answer: "Parity method.",
+  },
+  {
+    question:
+      "A wealthy, experienced individual finance other business owner most not really for interest is _________________",
+    options: [
+      "Debt financier",
+      "Equity financier",
+      "Trade credit",
+      "Angels",
+      "Ventures capitalist",
+    ],
+    answer: "Angels",
+  },
+  {
+    question:
+      "The reason for business major failure in Nigeria is due to harsh changes in ________________________.",
+    options: [
+      "Entrepreneur style",
+      "Internal environment",
+      "External environment",
+      "Power",
+    ],
+    answer: "External environment",
+  },
+  {
+    question:
+      "For entrepreneur, easily ‘fall in love’ major concern for achievement centre on",
+    options: [
+      "New financial plans",
+      "New management styles",
+      "New manufacturing ideas",
+      "New product ideas",
+      "New opportunities",
+    ],
+    answer: "New product ideas",
+  },
+  {
+    question:
+      "_______________Is the right given to entity to carry out a commercial activity for royalty.",
+    options: [
+      "Product franchise",
+      "Agent",
+      "Business franchise",
+      "Royalty",
+      "Licence",
+    ],
+    answer: "Business franchise",
+  },
+  {
+    question:
+      "Entrepreneur’s statement of ‘would be,’ OR ‘to be’, rather than how to get there expresses more of ______________________.",
+    options: [
+      "Strategy",
+      "Vision mission",
+      "Objective",
+      "Mission statement",
+      "All of the above",
+    ],
+    answer: "Objective",
+  },
+  {
+    question:
+      "_______________explain entrepreneur’s existence by using resources, ability, capability to improve its performance better than everyone else.",
+    options: [
+      "Absolute advantage",
+      "Competitive forces",
+      "Competitive advantage",
+      "All of the above",
+      "None of the above",
+    ],
+    answer: "Competitive advantage",
+  },
+  {
+    question:
+      "A simple and faster middle option between starting a fresh business and buying a going concern is to ______.",
+    options: [
+      "Invest and run a franchise",
+      "Fresh start up.",
+      "Buy already existing",
+      "Involve an intrapreneur",
+      "None of the above",
+    ],
+    answer: "Invest and run a franchise",
+  },
+  {
+    question:
+      "A initial and one-time payment made to become a franchise is ______________________.",
+    options: [
+      "Royalty fee",
+      "Franchisee fee",
+      "Franchisor fee",
+      "Franchise fee",
+      "Disclosure fee",
+    ],
+    answer: "Franchise fee",
+  },
+  {
+    question:
+      "_________ represent continuous and on-going interval payments that franchisees pay to franchisors.",
+    options: [
+      "Franchise agreement fee",
+      "Franchisee fee",
+      "Royalty fee",
+      "All of the above",
+      "None of the above",
+    ],
+    answer: "Royalty fee",
+  },
+  {
+    question:
+      "Lowering of unit costs through increased production quantities is common practice in _____ stage of product innovation.",
+    options: [
+      "Quantity discount",
+      "Economy of scale",
+      "Commercialization",
+      "Scalar quantity",
+      "Industrialization",
+    ],
+    answer: "Commercialization",
+  },
+  {
+    question:
+      "An important record for entrepreneur that help provide liquidity profile __________.",
+    options: [
+      "Purchase",
+      "Sale book",
+      "Inventory book",
+      "Cash book",
+      "Bank statement",
+    ],
+    answer: "Cash book",
+  },
+  {
+    question:
+      "To motivate employees, entrepreneurs strive to meet their ___________.",
+    options: ["Desire", "Want", "Promotion", "Need"],
+    answer: "Need",
+  },
+  {
+    question: "Customer value is explained as a perception of.",
+    options: [
+      "Fair price",
+      "Cost against benefit",
+      "Reasonable price",
+      "Price against value",
+    ],
+    answer: "Price against value",
+  },
+  {
+    question: "________________ Entrepreneurs know the journey is the goal.",
+    options: ["Intrapreneur", "Guerrilla", "Technopreneur", "Agropreneur"],
+    answer: "Guerrilla",
+  },
+  {
+    question:
+      "Pricing strategy of offering and charging different prices to different groups of customers for the same product/service is ____________.",
+    options: [
+      "Competitive pricing",
+      "Price range strategy",
+      "Promotion segment pricing",
+      "Price discrimination strategy",
+      "Mark up strategy",
+    ],
+    answer: "Price discrimination strategy",
+  },
+  {
+    question:
+      "The scope of entrepreneurial activities on ____________ and ____________.",
+    options: [
+      "Product and context",
+      "Context and content",
+      "Production and distribution",
+      "Need and satisfaction",
+    ],
+    answer: "Need and satisfaction",
+  },
+  {
+    question:
+      "_________ inform channelling of organization resource and profit to bring about a positive change in society.",
+    options: [
+      "Corporate social responsibility",
+      "Corporate philanthropy",
+      "Environmentalism",
+      "Cause marketing",
+    ],
+    answer: "Corporate philanthropy",
+  },
+  {
+    question:
+      "GLO sponsors ______________ as their corporate philanthropy in Nigeria.",
+    options: [
+      "Football premier league",
+      "Basketball league",
+      "Education empowerment",
+      "Information communication technology.",
+    ],
+    answer: "Football premier league",
+  },
+  {
+    question:
+      "Which of these is not an economic aspect of corporate social responsibility?",
+    options: [
+      "Fair pricing and competition",
+      "Corporate governance",
+      "Tax payment",
+      "Respect for contractual agreement",
+    ],
+    answer: "Respect for contractual agreement",
+  },
+  {
+    question:
+      "_________________is journey made for pleasure seeking during which many places are visited.",
+    options: ["Travel", "Tourism", "Hospitality", "Business travel"],
+    answer: "Tourism",
+  },
+  {
+    question: "By United Nations classified tourism into _______________.",
+    options: ["7", "3", "4", "2"],
+    answer: "3",
+  },
+  {
+    question: "______________is an indirect element of the tourism industry.",
+    options: [
+      "Transportation",
+      "Accommodation",
+      "Attraction",
+      "Ancillary services",
+      "Electricity",
+    ],
+    answer: "Ancillary services",
+  },
+  {
+    question:
+      "___________ is the process of divergent thinking in search of an opportunity.",
+    options: ["Destructive technology", "Novelty", "Originality", "Creativity"],
+    answer: "Creativity",
+  },
+  {
+    question:
+      "Which among these is not a way to transfer business ownership _____________",
+    options: ["Liquidation", "Gifting", "Selling", "Agent"],
+    answer: "Agent",
+  },
+  {
+    question:
+      "________ Principles ensure dual effect of every transaction by posting debit and credit correspondently.",
+    options: ["Ledger", "Double entry", "Going concern", "Journal"],
+    answer: "Double entry",
+  },
+  {
+    question:
+      "Small and medium enterprises (SMEs) mainly and consciously carry out marketing research through ________.",
+    options: [
+      "Occasionally asking customers",
+      "Snowball",
+      "Complaint form",
+      "Secondary data",
+    ],
+    answer: "Occasionally asking customers",
+  },
+  {
+    question:
+      "Average Nigerians would always complain not being in business due to lack of.",
+    options: ["Government support", "Finance", "Power", "Market"],
+    answer: "Finance",
+  },
+  {
+    question:
+      "The abstract of every business plan is contained in --------------------------.",
+    options: ["Summary", "Abstract", "Executive opinion", "Executive summary"],
+    answer: "Executive summary",
+  },
+  {
+    question:
+      "The critical and brainstorming stage of the entrepreneurial innovation process is in _-------.",
+    options: [
+      "Problem definition",
+      "Product development",
+      "Ideal generation",
+      "Idea screening",
+    ],
+    answer: "Idea screening",
+  },
+  {
+    question:
+      "__________________is the process of two equal firms coming together for higher opportunity and retaining their identity------------------.",
+    options: [
+      "Franchising branding",
+      "Horizontal merger",
+      "Brand extension",
+      "Vertical acquisition",
+    ],
+    answer: "Horizontal merger",
+  },
+  {
+    question:
+      "Without ______________ commitment, the organisation will find it difficult to ensure changes and achieve its vision statement.",
+    options: ["Managing director", "Supervisor", "Senior manager", "Employee"],
+    answer: "Employee",
+  },
+  {
+    question:
+      "The most outstanding reward for using capital for production sake is to ______________.",
+    options: [
+      "Further production of good",
+      "Provide interest for the owner",
+      "Give salary to the effort",
+      "Increase production capacity",
+    ],
+    answer: "Provide interest for the owner",
+  },
+  {
+    question:
+      "The questions What, whom, how, and when to produce are originally basic problem__________.",
+    options: ["Management", "Finance", "Entrepreneurial mindset", "Economics"],
+    answer: "Economics",
+  },
+  {
+    question:
+      "The questions What, whom, how, and when to produce problem of society are resolved by __________.",
+    options: ["Want", "Scare resource", "Government policy", "Price mechanism"],
+    answer: "Price mechanism",
+  },
+  {
+    question:
+      "According to Yusuf 1995, all these enhance women entrepreneurial performance in Nigeria except _________.",
+    options: [
+      "Managerial skill",
+      "Access to finance",
+      "Personal qualities",
+      "Sharing formula",
+      "Satisfactory government support",
+    ],
+    answer: "Sharing formula",
+  },
+  {
+    question:
+      "Women entrepreneurs benefit from androgyny possession except _______________-",
+    options: [
+      "High self-esteem",
+      "Achievement motivation",
+      "Flexible behaviour",
+      "Pessimistic",
+    ],
+    answer: "Pessimistic",
+  },
+  {
+    question: "Which among these is not a clear characteristic of service?",
+    options: [
+      "Can be stored",
+      "Easy touch",
+      "Highly perishable",
+      "Consumer at the point of production",
+    ],
+    answer: "Easy touch",
+  },
+  {
+    question:
+      "The environment where service is delivered and the interaction between the service provider and customer meet which in turn affects the level of customer satisfaction ______.",
+    options: ["Physical evidence", "Process", "Design", "Promotion"],
+    answer: "Physical evidence",
+  },
+  {
+    question:
+      "Personal selling can take place through all except_______________",
+    options: [
+      "Above the-counter",
+      "Field selling",
+      "Telemarketing",
+      "Inside selling",
+      "Advertising",
+    ],
+    answer: "Advertising",
+  },
+  {
+    question:
+      "__________Is the processing of identifying prospective job candidates through job advertisement.",
+    options: ["Interview", "Recruitment", "Selection", "Training"],
+    answer: "Recruitment",
+  },
+  {
+    question: "Training is given to which category of employee____________.",
+    options: ["Management", "Non-performing staff", "Employee", "New staff"],
+    answer: "Employee",
+  },
+  {
+    question:
+      "Compensation structure for sales force are majorly grouped into.",
+    options: [
+      "Salary + wages + income",
+      "Salary + commission + bonuses + wages",
+      "Salary + wages + commission + incentives",
+      "Salary + commission + incentives + bonuses",
+    ],
+    answer: "Salary + commission + incentives + bonuses",
+  },
+  {
+    question:
+      "Every salesperson must understand ____________ number of C(s) of the organization.",
+    options: ["5", "4", "3", "2"],
+    answer: "3",
+  },
+  {
+    question: "The key performance indicator of business organization except.",
+    options: [
+      "Market share",
+      "Profit",
+      "Sales",
+      "All of the options",
+      "Customer satisfaction",
+    ],
+    answer: "All of the options",
+  },
+  {
+    question:
+      "Agree with the person but neutralize the objection is an example found in___________ stage of selling process.",
+    options: ["Handling objection", "Prospect", "Defence", "Closing sale"],
+    answer: "Handling objection",
+  },
+  {
+    question:
+      "As inflation increases, the value of money and purchasing power of money ___________ which in turn ______ customer satisfaction.",
+    options: [
+      "Decreases and decrease",
+      "Increase and decrease",
+      "Lower and higher mindset",
+      "Increase and increase",
+    ],
+    answer: "Decreases and decrease",
+  },
+  {
+    question:
+      "A school drop-out now renowned for entrepreneurship in the world ________.",
+    options: ["Warren Buffet", "Jeff Bezos", "Aliko Dangote", "Bill Gates"],
+    answer: "Bill Gates",
+  },
+  {
+    question: "____________country like and float large corporations.",
+    options: ["Japan", "Brazil", "America", "India"],
+    answer: "America",
+  },
+  {
+    question:
+      "The first ingredient and starting point of all market segmentation type is through________.",
+    options: ["Geographic", "Demographic", "Psychographic", "Product"],
+    answer: "Demographic",
+  },
+  // 251
+  {
+    question:
+      "________________firm follow price skimming policy and strategy in Nigerian at their introductory business stage.",
+    options: ["MTN", "GLO", "Airtel", "etisalat"],
+    answer: "MTN",
+  },
+  {
+    question: "The market leader in the oil and gas industry is",
+    options: ["Agip", "Mobil", "shell", "chevrons"],
+    answer: "chevrons",
+  },
+  {
+    question:
+      "Every shareholder of firm periodical get_______________ as his investment outcome.",
+    options: ["bonus share", "profit", "dividend", "interest"],
+    answer: "dividend",
+  },
+  {
+    question:
+      "The starting base of Abraham Maslow need hierarchy is ________ that worker crave to satisfy first.",
+    options: [
+      "social need",
+      "physiological need",
+      "psychological need",
+      "self-esteem need",
+    ],
+    answer: "physiological need",
+  },
+  {
+    question:
+      "_______________represent the number of person an individual can effectively supervise.",
+    options: [
+      "unity of command",
+      "span of control",
+      "centralization of power",
+      "control",
+    ],
+    answer: "span of control",
+  },
+  {
+    question: "Example of e-tailer in Nigeria is except _____",
+    options: ["jumia", "Ali express", "konga", "FAQ", "OLX"],
+    answer: "FAQ",
+  },
+  {
+    question:
+      "From Fredrick Herzberg two factor theories are ____________and ________.",
+    options: [
+      "motivator and hygiene factor",
+      "expectation and dissatisfiers",
+      "theory Y and X",
+      "hygiene factor and demotivator.",
+    ],
+    answer: "motivator and hygiene factor",
+  },
+  {
+    question:
+      "The planning techniques that allows employees at lower levels in the organization in the process of goal setting is _______.",
+    options: [
+      "management by objective (MBO)",
+      "top down planning",
+      "goals-down-plan up",
+      "top management",
+    ],
+    answer: "top management",
+  },
+  {
+    question:
+      "A business way of forecasting sales is through all these except one____________.",
+    options: [
+      "survey",
+      "employee",
+      "statistical demand analysis",
+      "sales forecast",
+    ],
+    answer: "employee",
+  },
+  {
+    question: "Break even analysis help to determine _______________.",
+    options: [
+      "equilibrium between cost and revenue",
+      "increase in quantity of production",
+      "reset price of current goods",
+      "equilibrium of price and demand",
+    ],
+    answer: "equilibrium between cost and revenue",
+  },
+  {
+    question:
+      "Selecting from among alternatives course of action especially as to when, how and what to do with scare resources defines-------------",
+    options: [
+      "decision making",
+      "opportunity cost",
+      "choice arrangement",
+      "decision forgone",
+    ],
+    answer: "decision making",
+  },
+  {
+    question:
+      "Entrepreneur physical distribution activities are all these except",
+    options: [
+      "transportation",
+      "inventory control",
+      "customer service",
+      "warehousing",
+      "customer profiling",
+    ],
+    answer: "customer profiling",
+  },
+  {
+    question:
+      "The sole purpose of entrepreneurial business is _________________ and to make ___________________.",
+    options: [
+      "profit and goods",
+      "creation of goods and profit",
+      "solve problem and satisfaction of customer",
+      "set up firm and money",
+      "profit and profit only",
+    ],
+    answer: "creation of goods and profit",
+  },
+  {
+    question:
+      "Entrepreneurs providing goods and service when they are need is on creating ___________ utility.",
+    options: ["place", "time", "possession", "form"],
+    answer: "time",
+  },
+  {
+    question:
+      "Entrepreneurs taking advantage of making his good available, like coca cola product seen everywhere you go is creating ___________ utility.",
+    options: ["place", "time", "possession", "brand channel", "image"],
+    answer: "place",
+  },
+  {
+    question:
+      "Two twain terms of entrepreneur are _______________ and __________________ that guide daily and performance.",
+    options: [
+      "effective and effect",
+      "efficiency and effectiveness",
+      "goal and objective",
+      "effectiveness and efficient",
+    ],
+    answer: "efficiency and effectiveness",
+  },
+  {
+    question:
+      "The practice that customer is the first and last and every activities that the entrepreneur does should focus on customer is ____________.",
+    options: [
+      "production orientation",
+      "marketing analysis",
+      "customer orientation",
+      "customer satisfaction",
+    ],
+    answer: "customer orientation",
+  },
+  {
+    question:
+      "Factors of production are majorly grouped as ___________ numbers.",
+    options: ["3", "6", "4", "5"],
+    answer: "4",
+  },
+  {
+    question:
+      "Genesis fast food recent and major strategic and competitive edge option is through____________.",
+    options: [
+      "promotion",
+      "price strategy",
+      "location strategy",
+      "customer satisfaction",
+    ],
+    answer: "location strategy",
+  },
+  {
+    question:
+      "A major factor complain and worry of small and medium low performance in Nigeria ___________.",
+    options: [
+      "road network",
+      "power supply",
+      "loan hassle",
+      "increase in competitors",
+    ],
+    answer: "loan hassle",
+  },
+  {
+    question:
+      "Major cause of recent rise in prices of goods and services could be traced to____________in Nigeria.",
+    options: [
+      "interest rate",
+      "exchange rate",
+      "unemployment rate",
+      "high production curve",
+    ],
+    answer: "unemployment rate",
+  },
+  {
+    question:
+      "American going to Asian continent to locate their factories is taking advantage of __________.",
+    options: [
+      "nearness to water supply",
+      "power supply",
+      "cheap labour",
+      "nearness to market",
+    ],
+    answer: "cheap labour",
+  },
+  {
+    question:
+      "A major strategic window opportunity especially as a result of covid pandemic lies in ________.",
+    options: [
+      "Human resources",
+      "Information and communication technology",
+      "retailing",
+      "supply chain",
+    ],
+    answer: "Information and communication technology",
+  },
+  {
+    question: "Major cause of trade globalization is.",
+    options: ["ICT", "currency swap", "trade free zone", "indigenisation"],
+    answer: "ICT",
+  },
+  {
+    question: "How many forms of small business organization?_______",
+    options: ["4", "3", "5", "2"],
+    answer: "4",
+  },
+  {
+    question:
+      "_____________ is responsible for acquiring fund, managing fund within the firm and planning expenditure of the funds on various assets.",
+    options: ["account", "banker", "loan analyst", "finance"],
+    answer: "loan analyst",
+  },
+  {
+    question:
+      "The main disadvantaging of equity that are overcome in debt financing are all except__________.",
+    options: [
+      "dilution of shareholding",
+      "increase in third party governance",
+      "external control",
+      "increase in quick decision",
+    ],
+    answer: "increase in quick decision",
+  },
+  {
+    question:
+      "_______________ is the first basic principle to secure loan from bank.",
+    options: [
+      "draw up a business plan",
+      "get a collateral",
+      "know somebody in the bank",
+      "have a business",
+    ],
+    answer: "draw up a business plan",
+  },
+  {
+    question:
+      "A common jargon that synonymously represent entrepreneurship include all except.",
+    options: [
+      "tycoon and mogul",
+      "captain of industry and Erasmus",
+      "venture capitalist and business magnate",
+      "industrialists and businessperson",
+      "all of the above",
+    ],
+    answer: "all of the above",
+  },
+  {
+    question:
+      "Which of these scheme and guideline bank did government build to assist small and medium enterprise_________.",
+    options: [
+      "CBN guideline on sectorial allocation of loan and advances",
+      "agricultural credit guarantee scheme",
+      "development banks (BOI & NACRDB)",
+      "establishment of SMEDAN",
+      "PENCOM",
+    ],
+    answer: "PENCOM",
+  },
+  {
+    question:
+      "One of the first step in management control process ____________.",
+    options: [
+      "control plan",
+      "establish standard",
+      "measure standard",
+      "compare performance",
+      "correct deviation",
+    ],
+    answer: "compare performance",
+  },
+  {
+    question: "Major factor influencing firm choice of location are except.",
+    options: [
+      "labour market",
+      "proximity to market",
+      "union activity",
+      "government regulation",
+      "proximity to services",
+    ],
+    answer: "government regulation",
+  },
+  {
+    question:
+      "____________ is most apprehensive and challenge in adoption of e-commerce (ATM).",
+    options: [
+      "security",
+      "service failure",
+      "location of ATM gallery",
+      "customer",
+      "lack fund",
+    ],
+    answer: "customer",
+  },
+  {
+    question:
+      "__________ is the process of informing, communicating and persuading customer about a product or service.",
+    options: [
+      "mass marketing",
+      "business promotion",
+      "advertising",
+      "public relation",
+    ],
+    answer: "advertising",
+  },
+  {
+    question: "The most interactive and fast medium of advertising ________.",
+    options: [
+      "social platform",
+      "radio",
+      "television/cable",
+      "internet",
+      "social media platforms",
+    ],
+    answer: "social media platforms",
+  },
+  {
+    question:
+      "Which of these risk is associated with bad image of the firm ___________risk.",
+    options: ["demand", "reputation", "operation", "financial"],
+    answer: "reputation",
+  },
+  {
+    question:
+      "Which of these could be used to mean and represents a brand ____________.",
+    options: [
+      "uniqueness / differential",
+      "alternative/ identity",
+      "modifier/adjective",
+      "name/ sign",
+      "product",
+    ],
+    answer: "product",
+  },
+  {
+    question:
+      "The number of or collection of brands offered by a firm is ______________.",
+    options: [
+      "brand portfolio",
+      "assets portfolio",
+      "brand line",
+      "brand width",
+      "investment portfolio",
+    ],
+    answer: "brand width",
+  },
+  {
+    question:
+      "_____________ is a collection of firms offering similar products and competing against each other.",
+    options: ["company", "firm", "industry", "sector", "competition"],
+    answer: "industry",
+  },
+  {
+    question:
+      "Which is the closest distribution channel closer to the consumer__________.",
+    options: ["retailer", "agent", "wholesaler", "major distributor"],
+    answer: "retailer",
+  },
+  {
+    question:
+      "_________________pattern is not a possible way to organize business organization.",
+    options: ["labour", "function", "geographic", "product", "line and staff"],
+    answer: "product",
+  },
 ];
