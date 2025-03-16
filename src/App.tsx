@@ -33,7 +33,7 @@ function App() {
       </div>
 
       <a href="https://wa.me/2347017962215" style={{ color: "black" }}>
-        Site made by Samuel Kime
+        This site was made by Wahala Dev
       </a>
       <p>
         These are previous exam questions, not the ones for the upcoming exam.
